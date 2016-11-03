@@ -15,3 +15,8 @@ Here the default set of symlinks:
 * ln -s ~/Projects/WordPress/Plugins/taxonomy-filter/trunk taxonomy-filter
 * ln -s ~/Projects/WordPress/Plugins/wordpress-importer wordpress-importer
 * ln -s ~/Projects/WordPress/Plugins/wordpress-setup wordpress-setup
+
+First setup:
+* cd /var/www/dev/
+* git clone git@github.com:andrealandonio/wordpress-46.git wordpress46
+* restore database
